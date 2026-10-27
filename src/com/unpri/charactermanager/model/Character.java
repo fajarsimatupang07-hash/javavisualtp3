@@ -110,3 +110,4 @@ public class Character {
                 name, type, level, hitPoints, attackPower, mana, isAlive());
     }
 }
+//keterangan 
